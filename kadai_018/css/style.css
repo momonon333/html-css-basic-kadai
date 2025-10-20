@@ -4,13 +4,13 @@
   margin: 20px 0px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .top-child {
   display: inline-block;
   width: 20%;
   background-color: #ffd9df;
-  text-align: center;
   position: relative;
   left: auto;
   right: auto;
